@@ -1,0 +1,6 @@
+streamlit # 웹/앱 라이브러리
+pandas # 데이터 분석용 라이브러리 > numpy를 이용해서 실행
+numpy # 데이터 분석용 라이브러리
+matplotlib # 시각하용라이브러리 > 그래프
+seaborn # 시각화용 라이브러리> matplotlib을 이용해서 실행
+finance-datareader # 금융 데이터 다운로드하는 라이브러리
